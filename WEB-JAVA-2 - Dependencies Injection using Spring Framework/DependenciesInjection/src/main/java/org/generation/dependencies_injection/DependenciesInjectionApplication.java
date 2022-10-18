@@ -9,5 +9,5 @@ public class DependenciesInjectionApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DependenciesInjectionApplication.class, args);
 	}
-
+	
 }

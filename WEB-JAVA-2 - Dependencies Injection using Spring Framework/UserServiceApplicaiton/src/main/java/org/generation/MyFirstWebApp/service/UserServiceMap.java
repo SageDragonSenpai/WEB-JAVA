@@ -14,33 +14,33 @@ public class UserServiceMap
     @Override
     public List<User> getAll()
     {
-        //TODO implement this method
+        
         return null;
     }
 
     @Override
     public void add( User user )
     {
-        //TODO implement this method
+        
     }
 
     @Override
     public void remove( User user )
     {
-        //TODO implement this method
+        
     }
 
     @Override
     public int size()
     {
-        //TODO implement this method
+        
         return 0;
     }
 
     @Override
     public User getUser( int position )
     {
-        //TODO implement this method
+        
         return null;
     }
 }
